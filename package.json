@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/formio/vue-formio#readme",
   "peerDependencies": {
-    "formiojs": "^4.14.9",
+    "formiojs": "github:summerpax/formio.js#master",
     "vue": "^3.0.9"
   },
   "devDependencies": {
