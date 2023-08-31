@@ -20,7 +20,7 @@
     "vue": "^3.0.9"
   },
   "devDependencies": {
-    "formiojs": "github:summerpax/formiojs#master",
+    "formiojs": "github:summerpax/formio.js#master",
     "@types/vue": "^2.0.0",
     "@vue/compiler-sfc": "^3.0.7",
     "@types/node": "^18.8.5",
