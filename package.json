@@ -10,15 +10,6 @@
     "watch": "tsc -w",
     "prepublish": "npm run build"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/formio/vue-formio.git"
-  },
-  "keywords": [
-    "Form.io",
-    "vue.js",
-    "forms"
-  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/formio/vue-formio/issues"
@@ -29,7 +20,7 @@
     "vue": "^3.0.9"
   },
   "devDependencies": {
-    "formiojs": "github:summerpax/formio.js#master",
+    "formiojs": "github:summerpax/formiojs#master",
     "@types/vue": "^2.0.0",
     "@vue/compiler-sfc": "^3.0.7",
     "@types/node": "^18.8.5",
